@@ -81,3 +81,10 @@ button {
     display: flex;
     gap: 3rem;
 }
+
+@media only screen and (max-width: 400px)  {
+
+	h1.neon{
+		font-size: 3.5rem;
+	}
+}
